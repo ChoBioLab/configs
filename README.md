@@ -131,6 +131,7 @@ Currently documentation is available for the following systems:
 - [MARVIN](docs/marvin.md)
 - [MEDAIR](docs/medair.md)
 - [MJOLNIR_GLOBE](docs/mjolnir_globe.md)
+- [MSSM](docs/mssm.md)
 - [MPCDF](docs/mpcdf.md)
 - [MUNIN](docs/munin.md)
 - [NU_GENOMICS](docs/nu_genomics.md)
