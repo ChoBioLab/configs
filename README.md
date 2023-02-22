@@ -112,6 +112,7 @@ Currently documentation is available for the following systems:
 - [DENBI_QBIC](docs/denbi_qbic.md)
 - [DKFZ](docs/dkfz.md)
 - [EBC](docs/ebc.md)
+- [Engaging](docs/engaging.md)
 - [EVA](docs/eva.md)
 - [FGCZ](docs/fgcz.md)
 - [GENOTOUL](docs/genotoul.md)
@@ -217,7 +218,10 @@ Currently documentation is available for the following pipelines within specific
   - [AWS_TOWER](docs/pipeline/demultiplex/aws_tower.md)
 - eager
   - [EVA](docs/pipeline/eager/eva.md)
+- funcscan
+  - [HKI](docs/pipeline/funcscan/hki.md)
 - mag
+  - [Engaging](docs/pipeline/mag/engaging.md)
   - [EVA](docs/pipeline/mag/eva.md)
 - rnafusion
   - [HASTA](docs/pipeline/rnafusion/hasta.md)
@@ -228,6 +232,7 @@ Currently documentation is available for the following pipelines within specific
   - [MUNIN](docs/pipeline/rnavar/munin.md)
 - sarek
   - [Cancer Research UK Manchester Institute](docs/pipeline/sarek/crukmi.md)
+  - [EVA](docs/pipeline/sarek/eva.md)
   - [MUNIN](docs/pipeline/sarek/munin.md)
   - [SBC_SHARC](docs/pipeline/sarek/sbc_sharc.md)
   - [UPPMAX](docs/pipeline/sarek/uppmax.md)
